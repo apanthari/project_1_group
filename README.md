@@ -26,7 +26,12 @@
 
 
 **jared's section analysis**
+Diseases such as neoplasms and cardiovascular disease have been steadily increasing amongst all populations of the world. The data shows a positive tendency that all continents have increasing death rates from these non-communicable diseases.
 
+Despite these graphs showing raw values, we see a different story when the percentage of a continent’s population is taken into account.
 
+As we can see, the visuals shows three separate world events that caused large increases in death. First, in 1994, on the blue line, representing the continent of Africa, the data illustrates the Rwandan Genocide with a death toll of nearly a million people. Secondly, in 2004, on the orange line representing the continent of Asia, we see a 9.1 magnitude earthquake near Sumatra, Indonesia that created a gigantic tsunami which caused a catastrophic event along the entire Indian Ocean region. Last, for the continent of North America, the data illustrates the sharp rise in 2010 due to the Haitian Earthquakes.
+
+Asia has nearly 4 times the population of Africa, however Africa’s  raw total of causes of death by Communicable diseases nearly exceeds that of Asia. Diseases such as HIV/AIDS, neonatal and maternal disorders have disproportionately affected the continent of Africa while other continents have a slight negative trend. Although there is an overall negative trendline, this visual aid can show the necessity of healthcare in vulnerable populations such as Africa. 
 
 **josie's section analysis**
