@@ -34,4 +34,10 @@ As we can see, the visuals shows three separate world events that caused large i
 
 Asia has nearly 4 times the population of Africa, however Africa’s  raw total of causes of death by Communicable diseases nearly exceeds that of Asia. Diseases such as HIV/AIDS, neonatal and maternal disorders have disproportionately affected the continent of Africa while other continents have a slight negative trend. Although there is an overall negative trendline, this visual aid can show the necessity of healthcare in vulnerable populations such as Africa. 
 
-**josie's section analysis**
+**Josie's section analysis**
+
+*My question was: what are the top reasons of death in Africa and how the reasons changed over 30 years? Why we choose to analyze Africa, it is because most of countries in Africa are developing countries and the death rate is quite high in Africa among the world.
+
+After analyzing the dataset, the top 10 causes of death are shown in the chart and cardiovascular disease, HIV, diarrheal diseases, neonatal disorders and low respiratory infections are the top 5 reasons. We used these top five causes in the following analysis. Next, we'd like to know which countries have the most number of deaths and what are their main reasons of death in those countries. From the graph, we can see different countries have different health problems, for example, in south Africa, there is a high risk of HIV. Cardiovascular dieases is the leading cause of death in Egypt. 
+
+Since our data include 30 years information, we also need to know what is the trend regarding the top five reasons over this long period, so that we can pay more attention to the increased ones. From the chart, we can see only cardiovascular increased and others decereased in recent years. The interesting part is the HIV trend increased first and then decreased after 2005. That is due to south Africa government’s obstruction of life-saving treatment and at least 35,000 babies were born with HIV infections that could have been prevented. Then from 2005 the international community started to focus on the HIV pandemic in South Africa and help them tackle the crisis. It is why HIV decreased in the following years.
